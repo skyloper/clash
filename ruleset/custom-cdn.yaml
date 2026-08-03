@@ -1,0 +1,16 @@
+# Local custom rules for the CDN policy.
+payload:
+  - "DOMAIN-SUFFIX,akamai.net"
+  - "DOMAIN-SUFFIX,akamaized.net"
+  - "DOMAIN-SUFFIX,cdn.blizzard.com"
+  - "DOMAIN-SUFFIX,ssl.blizzard.com"
+  - "DOMAIN-SUFFIX,cloudflarestorage.com"
+  - "DOMAIN,iosapps.itunes.apple.com"
+  - "DOMAIN,osxapps.itunes.apple.com"
+  - "DOMAIN,supportdownload.apple.com"
+  - "DOMAIN,appldnld.apple.com"
+  - "DOMAIN,swcdn.apple.com"
+  - "DOMAIN,apptrailers.itunes.apple.com"
+  - "DOMAIN,updates-http.cdn-apple.com"
+  - "DOMAIN-SUFFIX,mzstatic.com"
+  - "PROCESS-NAME,storedownloadd"

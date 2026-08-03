@@ -1,0 +1,4 @@
+# Local custom rules for the BAN policy.
+payload:
+  - "IP-CIDR,141.94.96.195/24,no-resolve"
+  - "IP-CIDR,75.119.158.0/24,no-resolve"

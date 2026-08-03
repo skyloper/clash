@@ -1,0 +1,3 @@
+# Local custom rules for the PROXY-NOTCN policy.
+payload:
+  - "DOMAIN-SUFFIX,reddit.com"

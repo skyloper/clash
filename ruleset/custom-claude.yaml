@@ -1,0 +1,10 @@
+# Local custom rules for the CLAUDE policy.
+payload:
+  - "DOMAIN-SUFFIX,claude.com"
+  - "DOMAIN-SUFFIX,claude.ai"
+  - "DOMAIN-SUFFIX,anthropic.com"
+  - "DOMAIN-SUFFIX,anthropicusercontent.com"
+  - "DOMAIN,api.anthropic.com"
+  - "PROCESS-NAME,Claude"
+  - "PROCESS-NAME,claude"
+  - "PROCESS-NAME,/Applications/Claude.app/Contents/MacOS/Claude"

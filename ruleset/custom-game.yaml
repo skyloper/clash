@@ -1,0 +1,4 @@
+# Local custom rules for the GAME policy.
+payload:
+  - "DOMAIN-SUFFIX,srv.nintendo.net"
+  - "DOMAIN-SUFFIX,nintendo.net"

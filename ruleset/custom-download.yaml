@@ -1,0 +1,6 @@
+# Local custom rules for the DOWNLOAD policy.
+payload:
+  - "DOMAIN-SUFFIX,docker.io"
+  - "DOMAIN-SUFFIX,docker.com"
+  - "DOMAIN-SUFFIX,lscr.io"
+  - "DOMAIN-SUFFIX,ghcr.io"

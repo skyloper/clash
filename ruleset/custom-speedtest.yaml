@@ -1,0 +1,3 @@
+# Local custom rules for the SPEEDTEST policy.
+payload:
+  - "DOMAIN-KEYWORD,speedtest"

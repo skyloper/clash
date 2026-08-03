@@ -1,0 +1,3 @@
+# Local custom rules for the PROXY-SG policy.
+payload:
+  - "DOMAIN-SUFFIX,gitlab.com"
