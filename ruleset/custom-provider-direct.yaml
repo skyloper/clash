@@ -1,0 +1,4 @@
+# Subscription and provider endpoints that must bypass the active proxy.
+payload:
+  - "DOMAIN,api-huacloud.com"
+  - "DOMAIN,api.xmancdn.net"
