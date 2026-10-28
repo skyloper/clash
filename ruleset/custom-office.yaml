@@ -17,6 +17,7 @@ payload:
   - "DOMAIN-SUFFIX,bg.choicecircle.com"
   - "DOMAIN,demo.choicecircle.com"
   - "DOMAIN-SUFFIX,bg.sparkedu.com"
+  - "DOMAIN-SUFFIX,sparkbi.bg.sparkedu.com"
   - "DOMAIN-SUFFIX,bg.huohua.cn"
   - "DOMAIN-SUFFIX,qc.huohua.cn"
   - "DOMAIN-SUFFIX,qa.huohua.cn"
